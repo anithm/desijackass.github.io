@@ -1,6 +1,6 @@
 ## Mazira
 
-Mazira is a privately held software company based out of [Iowa City, Iowa.](https://en.wikipedia.org/wiki/Iowa_City,_Iowa) . The company was established in 2011 by alumni of the University of Iowa and was a part of the University's JPEC program. In the early days the company built software for handling of unstructured data. The company specialized in building custom search engines that simultaneously searched structured and unstructured databases and correlated the results for end users. This technology eventually led to the development of [GoldFynch](https://goldfynch.com), which is a subscription based ediscovery platform.
+Mazira is a privately held software company based out of [Iowa City, Iowa.](https://en.wikipedia.org/wiki/Iowa_City,_Iowa) The company was established in 2011 by alumni of the University of Iowa and was a part of the University's JPEC program. In the early days the company built software for handling of unstructured data. The company specialized in building custom search engines that simultaneously searched structured and unstructured databases and correlated the results for end users. This technology eventually led to the development of [GoldFynch](https://goldfynch.com), which is a subscription based ediscovery platform.
 
 
 ### Markdown
